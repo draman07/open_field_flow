@@ -46,7 +46,7 @@ there is no equivalent problem.
 Rationale
 ----------
 
-I (Paulo Salem) saw pixflow #2 in an exposition in São Paulo (Brazil) some years ago and liked the idea so much that I 
+I (Paulo Salem) saw pixflow #2 at an art exhibition in São Paulo (Brazil) some years ago and liked the idea so much that I 
 soon decided to re-implement at least part of it, for my own personal pleasure. This software is therefore 
 primarily intended as an independent, open-source and customized re-implementation of (as well as a tribute to) 
 pixflow #2.
