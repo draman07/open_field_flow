@@ -69,7 +69,7 @@ public class AboutWindow extends javax.swing.JDialog {
             }
         });
 
-        jLabel3.setText("Copyright (c) 2012  Paulo Salem (paulosalem@paulosalem.com). Licensed under GPL v3.");
+        jLabel3.setText("Copyright (c) 2012  Paulo Salem. Licensed under GPL v3.");
 
         jLabel4.setText("<html> by Paulo Salem (<i>paulosalem@paulosalem.com</i>) </html>");
 
