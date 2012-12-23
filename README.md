@@ -60,7 +60,7 @@ Nevertheless, it is worth mentioning that:
 
   * Open Field Flow contains features which I did not see in pixflow, such as user interaction and customization of vector field 
     parameters. These might be original contributions to the underlying concept, but I don't know, since I have no access
-    to pixflow's implementation (I just saw the resulting animation in the exposition).
+    to pixflow's implementation (I just saw the resulting animation at the exhibition).
   * Owing to my original objective, the implementation is quite modular and easily extensible. Particles and vectors,
     for example, are just sub-classes of a more general agent. In fact, I did a number of experiments in this manner,
     but since they were all conceptually half-baked, I did not include them in this release. The hard part
