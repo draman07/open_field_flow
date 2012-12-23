@@ -1,7 +1,7 @@
 Open Field Flow
 ===============
 
-Open Field Flow is a work of abstract art. More precisely, it is an particle system simulator in 
+Open Field Flow is a work of abstract art. More precisely, it is a particle system simulator in 
 which particles flow through and interact with a vector field. This results in visually interesting patterns.
 It is also possible to interact with the vector field, thereby altering the observed flow and engaging the user.
 
