@@ -5,10 +5,17 @@ Open Field Flow is a work of abstract art. More precisely, it is an particle sys
 which particles flow through and interact with a vector field. This results in visually interesting patterns.
 It is also possible to interact with the vector field, thereby altering the observed flow and engaging the user.
 
+Both the source files and the binaries are provided. If all you want is to run the software, download the
+`open_field_flow_v1.0.0.zip` distribution from the list above and follow the instructions below (Usage section).
+The other files provide the source program and supporting files. For convenience, a whole NetBeans project
+was pushed to GitHub, not only the programs (more about this below).
+
 Although this implementation is completely  original, the artistic concept behind it is not. In fact, 
 this software was built (from scratch) with the purpose of reproducing the main conceptual aspects of the work of art 
 named "pixflow #2", whose author is [LAb\[au\]] (http://lab-au.com/). However, this is done independently and has 
 no relationship whatsoever with pixflow #2 other than being inspired by it (more about this below).
+
+
 
 
 
@@ -20,7 +27,9 @@ obtained here:
 
    http://www.java.com/
 
-Once Java is installed, you may run the program by issuing the following command:
+Once Java is installed, download the file `open_field_flow_v1.0.0.zip` found in the list above. It contains the binary 
+distribution for executing the program. Unzip it somewhere and open a command-line in that folder.
+You may then run the program by issuing the following command:
 
   ```shell
     java -jar Open_Field_Flow.jar  -Dsun.java2d.opengl=True
@@ -74,8 +83,10 @@ that the author has no time to build more. In particular, a decent technical fou
 to be used. If you feel like contributing with new kinds of simulations, please feel encouraged to do
 so! Other contributions are of course welcomed as well. 
 
-Open Field Flow is implemented in Java 6. Furthermore, the NetBeans 7.2 IDE was used to create the GUI, 
-so you may consider using it to make your life easier.
+Open Field Flow is implemented in Java 6. Moreover, the NetBeans 7.2 IDE was used to create the GUI, 
+so you may consider using it to make your life easier. For further conveience (and perhaps to the detriment of elegance), 
+I have pushed the whole NetBeans project to GitHub, not only the source. So all you have to do is to 
+download everything and then import the project in NetBeans.
 
 
 Disclaimer
