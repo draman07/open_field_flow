@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>Open Field Flow</title>
+        <vendor>Paulo Salem</vendor>
+        <homepage href=""/>
+        <description>Open Field Flow</description>
+        <description kind="short">Open Field Flow</description>
+    <icon href="open-field-flow-icon.png" kind="default"/>
+<offline-allowed/>
+</information>
+    <update check="background"/>
+    <resources>
+        <j2se java-vm-args="-Dsun.java2d.opengl=True" version="1.5+"/>
+        <jar href="Open_Field_Flow.jar" main="true"/>
+    <jar href="lib/jogl.jar"/>
+<jar href="lib/guava-11.0.2.jar"/>
+<jar href="lib/gluegen-rt.jar"/>
+</resources>
+    <application-desc main-class="com.paulosalem.openfieldflow.gui.SimulationControlWindow">
+    </application-desc>
+</jnlp>
