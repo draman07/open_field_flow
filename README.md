@@ -8,15 +8,12 @@ It is also possible to interact with the vector field, thereby altering the obse
 Both the source files and the binaries are provided. If all you want is to run the software, download the
 `open_field_flow_v1.0.0.zip` distribution from the list above and follow the instructions below (Usage section).
 The other files provide the source program and supporting files. For convenience, a whole NetBeans project
-was pushed to GitHub, not only the programs (more about this below).
+was pushed to GitHub, not only the program (more about this below).
 
 Although this implementation is completely  original, the artistic concept behind it is not. In fact, 
 this software was built (from scratch) with the purpose of reproducing the main conceptual aspects of the work of art 
 named "pixflow #2", whose author is [LAb\[au\]] (http://lab-au.com/). However, this is done independently and has 
 no relationship whatsoever with pixflow #2 other than being inspired by it (more about this below).
-
-
-
 
 
 Usage
