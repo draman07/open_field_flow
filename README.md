@@ -24,7 +24,24 @@ obtained here:
 
    http://www.java.com/
 
-Once Java is installed, download the file `open_field_flow_v1.0.0.zip` found in the list above. It contains the binary 
+Once Java is installed, there are two methods to run the software: (i) directly from your browser; or (ii) downloading to your 
+computer first.
+
+
+### Method 1: from the browser
+
+Open Field Flow is packaged to support the Java Web Start technology, which allows one to run full Java programs
+(not just applets) right from the browser. You can find a demonstration installation at the following URL: 
+
+[http://www.paulosalem.com/openfieldflow/launch.html]
+
+Just go there and click on launch.
+
+### Method 2: download first
+
+
+
+Download the file `open_field_flow_v1.0.0.zip` found in the list above. It contains the binary 
 distribution for executing the program. Unzip it somewhere and open a command-line in that folder.
 You may then run the program by issuing the following command:
 
