@@ -5,8 +5,8 @@ Open Field Flow is a work of abstract art. More precisely, it is a particle syst
 which particles flow through and interact with a vector field. This results in visually interesting patterns.
 It is also possible to interact with the vector field, thereby altering the observed flow and engaging the user.
 
-Both the source files and the binaries are provided. If all you want is to run the software, download the
-`open_field_flow_v1.0.0.zip` distribution from the list above and follow the instructions below (Usage section).
+Both the source files and the binaries are provided. If all you want is to run the software, follow the instructions below 
+(Usage section).
 The other files provide the source program and supporting files. For convenience, a whole NetBeans project
 was pushed to GitHub, not only the program (more about this below).
 
