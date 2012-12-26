@@ -32,7 +32,7 @@ computer first.
 Open Field Flow is packaged to support the Java Web Start technology, which allows one to run full Java programs
 (not just applets) right from the browser. You can find a demonstration installation at the following URL: 
 
-[http://www.paulosalem.com/openfieldflow/launch.html]
+http://www.paulosalem.com/openfieldflow/launch.html
 
 Just go there and click on launch.
 
@@ -85,8 +85,8 @@ Nevertheless, it is worth mentioning that:
 
 In order to promote its dissemination and growth, the software is released as open-source, under the GPL 3 license 
 (see below). I have opted for the GPL because I feel this particular project ought to remain free. It would be a shame 
-to allow it to be closed, since I have created it specifically to make a fine idea (but with an unknown implementation) 
-available to me and others.
+to allow it to be closed, since I have created it specifically to make a fine idea (but with a locked down and 
+apparently inacessible implementation) available to me and others.
 
 
 Contributing
