@@ -98,7 +98,7 @@ to be used. If you feel like contributing with new kinds of simulations, please 
 so! Other contributions are of course welcomed as well. 
 
 Open Field Flow is implemented in Java 6. Moreover, the NetBeans 7.2 IDE was used to create the GUI, 
-so you may consider using it to make your life easier. For further conveience (and perhaps to the detriment of elegance), 
+so you may consider using it to make your life easier. For further convenience (and perhaps to the detriment of elegance), 
 I have pushed the whole NetBeans project to GitHub, not only the source. So all you have to do is to 
 download everything and then import the project in NetBeans.
 
