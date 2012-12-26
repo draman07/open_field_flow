@@ -5,10 +5,9 @@ Open Field Flow is a work of abstract art. More precisely, it is a particle syst
 which particles flow through and interact with a vector field. This results in visually interesting patterns.
 It is also possible to interact with the vector field, thereby altering the observed flow and engaging the user.
 
-Both the source files and the binaries are provided. If all you want is to run the software, follow the instructions below 
-(Usage section).
-The other files provide the source program and supporting files. For convenience, a whole NetBeans project
-was pushed to GitHub, not only the program (more about this below).
+Both the source files and the binaries are provided.  For convenience, a whole NetBeans project
+was pushed to GitHub, not only the source program. However, if all you want is to run the software, 
+follow the instructions below (Usage section).
 
 Although this implementation is completely  original, the artistic concept behind it is not. In fact, 
 this software was built (from scratch) with the purpose of reproducing the main conceptual aspects of the work of art 
@@ -37,13 +36,14 @@ Open Field Flow is packaged to support the Java Web Start technology, which allo
 
 Just go there and click on launch.
 
+
+
 ### Method 2: download first
 
-
-
-Download the file `open_field_flow_v1.0.0.zip` found in the list above. It contains the binary 
-distribution for executing the program. Unzip it somewhere and open a command-line in that folder.
-You may then run the program by issuing the following command:
+Download the file `open_field_flow_v1.0.0.zip` found in the list above (the other files in the list only matter 
+for programmers, so you may ignore them if you just want to run the software). 
+It contains the binary distribution for executing the program. Unzip it somewhere and open a command-line in 
+that folder. You may then run the program by issuing the following command:
 
   ```shell
     java -jar Open_Field_Flow.jar  -Dsun.java2d.opengl=True
